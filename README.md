@@ -42,8 +42,7 @@ A Python-based distributed key-value store implementation using etcd for consist
 
 ## 📫 Let's Connect
 - **GitHub**: [Ajeybhat47](https://github.com/Ajeybhat47)
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Email**: your.email@example.com
+- **Email**: ajeybhatm@gmail.com
 
 Feel free to explore my repositories and get in touch if you have any questions or collaborations in mind!
 
