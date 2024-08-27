@@ -5,7 +5,7 @@
 ## 📫 Let's Connect
 - **GitHub**: [Ajeybhat47](https://github.com/Ajeybhat47)
 - **Email**: ajeybhatm@gmail.com
-- **Linkedin**:linkedin.com/in/ajey-bhat-b6538524a
+- **Linkedin**: [Linkedin Profile](https://www.linkedin.com/in/ajey-bhat-b6538524a)
 
   
 ## 🛠️ Projects
