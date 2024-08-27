@@ -2,6 +2,12 @@
 
 👋 Hi, I'm Ajey Bhat, a passionate Software Developer with a focus on building efficient, scalable, and robust solutions. I enjoy exploring new technologies and continuously improving my skills by working on diverse projects.
 
+## 📫 Let's Connect
+- **GitHub**: [Ajeybhat47](https://github.com/Ajeybhat47)
+- **Email**: ajeybhatm@gmail.com
+- **Linkedin**:linkedin.com/in/ajey-bhat-b6538524a
+
+  
 ## 🛠️ Projects
 
 ### **[Expense-tracker](https://github.com/Ajeybhat47/Expense-tracker)**
@@ -40,9 +46,6 @@ A JavaScript-based project aimed at tutoring students for JEE examinations.
 A Python-based distributed key-value store implementation using etcd for consistency and reliability.
 
 
-## 📫 Let's Connect
-- **GitHub**: [Ajeybhat47](https://github.com/Ajeybhat47)
-- **Email**: ajeybhatm@gmail.com
 
 Feel free to explore my repositories and get in touch if you have any questions or collaborations in mind!
 
