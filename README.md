@@ -19,12 +19,6 @@ A Java project focusing on rendering techniques and optimizations.
 ### **[APMC-Management-System-OOAD](https://github.com/Ajeybhat47/APMC-Management-System-OOAD-)**
 Forked project based on Object-Oriented Analysis and Design (OOAD) principles for managing agricultural produce market committees.
 
-### **[Springboot](https://github.com/Ajeybhat47/Springboot)**
-A collection of Spring Boot applications showcasing various microservices and backend systems.
-
-### **[Distributed-Key-Value-Store-with-etcd](https://github.com/Ajeybhat47/Distributed-Key-Value-Store-with-etcd)**
-A Python-based distributed key-value store implementation using etcd for consistency and reliability.
-
 ### **[File-metadata-analyzer](https://github.com/Ajeybhat47/File-metadata-analyzer)**
 A C++ tool for analyzing and extracting metadata from various file formats.
 
@@ -48,6 +42,9 @@ A C project implementing image steganography techniques for secure communication
 
 ### **[CustomerLoyaltySoftware](https://github.com/Ajeybhat47/CustomerLoyaltySoftware)**
 A loyalty points management system in C++ for rewarding customers based on their purchase history.
+
+### **[Distributed-Key-Value-Store-with-etcd](https://github.com/Ajeybhat47/Distributed-Key-Value-Store-with-etcd)**
+A Python-based distributed key-value store implementation using etcd for consistency and reliability.
 
 ### **[Remote-Device-Controller](https://github.com/Ajeybhat47/Remote-Device-Controller)**
 A Python project for controlling devices remotely with a focus on IoT applications.
