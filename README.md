@@ -2,12 +2,6 @@
 
 👋 Hi, I'm Ajey Bhat, a passionate Software Developer with a focus on building efficient, scalable, and robust solutions. I enjoy exploring new technologies and continuously improving my skills by working on diverse projects.
 
-## 🌟 Achievements
-- **Pull Shark**: Recognized for my contributions to open-source projects.
-
-## 💼 Professional Highlights
-- **Pro Member**: Committed to professional growth and development.
-
 ## 🛠️ Projects
 
 ### **[Expense-tracker](https://github.com/Ajeybhat47/Expense-tracker)**
